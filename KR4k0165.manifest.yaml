@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR4k0165/v1
+canonical_location: https://kanripo.org/bkk/KR4k0165/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
+assets:
+  parts:
+  - {seq: 0, filename: KR4k0165_000.yaml, hash: 'sha256:fc53eb326e979e9abfbeb8a0ef1f2e1355a9eea391a582cfd17bb4c6ee114888'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4k0165_000.markers.yaml, hash: 'sha256:d4346c5dcc8c7be06ae56c10472fb246d9710494f52b07d2a05decaafe8bfaa5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4k0165_kf_000-h.1
+    span:
+    - body
+    - 0
+    - 24456
+  label: ''
+  type: section
+  level: 1
+metadata:
+  title: 康雍乾間文字之獄
+  identifiers:
+    krp: KR4k0165
+  tags:
+    kr-categories: KR4k
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0165.xml
+  edition:
+    short: bkk
+hash: sha256:138b5b7e13ddf0ff869607943942583147d01b81b4818567d88df0150972df2b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

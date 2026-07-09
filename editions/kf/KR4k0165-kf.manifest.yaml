@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR4k0165/kf/v1
+canonical_location: https://kanripo.org/bkk/KR4k0165/kf/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4k0165_000-kf.yaml, hash: 'sha256:2f7ba22adf362d7369a6068d9e626f95764d1c3f6c317268260676ea93d0ebcf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4k0165_000-kf.markers.yaml, hash: 'sha256:f9303848e7ee429e59d4ca4a063780227c042e4ded63c11e667e4b4034df6fef'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4k0165_kf_000-h.1
+    span:
+    - body
+    - 0
+    - 24456
+  label: ''
+  type: section
+  level: 1
+metadata:
+  title: 康雍乾間文字之獄
+  identifiers:
+    krp: KR4k0165
+  tags:
+    kr-categories: KR4k
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0165.xml
+  edition:
+    short: kf
+hash: sha256:8774178355c136a2e44dbb5357ba460258d6c7e4fab4f5968f8fd70f97f6989b
